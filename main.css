@@ -17,3 +17,13 @@ td {
 	padding: 8px;
 	border: 2px dashed gray;
 }
+
+footer a {
+	text-decoration: none;
+	color: blue;
+}
+
+footer a:hover {
+	color: darkred;
+}
+
