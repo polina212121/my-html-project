@@ -7,3 +7,8 @@ h1 {
 	text-align: center;
 	color: purple;
 }
+th {
+	background-color: lightgray;
+	font-weight: bold;
+	text-align: center;
+}
